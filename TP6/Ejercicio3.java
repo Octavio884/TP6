@@ -50,3 +50,8 @@ class Mascota {
         System.out.println("Peso: "+ peso + " kg");
     }
 }
+public class Ejercicio3 {
+    public static void main(String[] args) {
+    
+}
+}
